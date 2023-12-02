@@ -1,0 +1,183 @@
+nav,header,ul{
+    list-style-type: none;
+}
+header{
+    border: 2px solid black;
+    display: flex;
+    margin-left: 1%;
+    padding: 5px;
+}
+.fifi,nav{
+    display:flex ;
+    margin-top: -0px;
+    margin-left: 400px;
+}
+a:hover{
+  color: blue;
+}
+a{
+    margin: 6px;
+    font-size: 19px;
+    color: red;
+    list-style: none;
+    text-decoration: none;
+}
+.lien{color: red;
+      font-size: 1.5em;
+     text-decoration: none;
+}
+span{color: black;}
+.coumba{
+    display: flex;
+    position: relative;
+    margin-left: 1%;
+    margin-top: 42px;
+    border: 4px solid black;
+   width: 400px;
+}
+.ndiaye{
+  border: 4px solid black;
+  height: 350px;
+  width: 730px;
+  margin-left: 50px;
+  margin-top: 42px;
+}
+.pre{
+  text-align: center;
+  font-size: 30px;
+   margin-top: -2px;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    border-style: solid;
+    width: 95%;
+    font-size:1em ;
+    margin-left: 2%;
+    margin-top: 02%;
+}
+.loi{
+    margin-left: 30%;}
+.lon{
+    margin-left: 30%;}
+h1{
+        margin-top: 05px;
+}
+section{
+      height: 100%;
+      justify-content: center;
+      align-items: center;
+      display: flex;
+}
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+} 
+table{
+    margin: 20px;
+    background-color: white;
+}
+.po{
+   background-color: beige;
+    border: 1px solid beige;
+    margin: 20px;
+    width: 50%;
+    height: 40%;
+    border-radius: 10px;}
+th{
+    background-color: rgb(3, 3, 79);
+    color: white;
+} 
+td{
+    color: blue;
+}
+.lo{
+    
+    height: 10px;
+    color: white;
+    
+}
+.button{
+    background-color: rgb(5, 5, 95);
+    color: white;
+}
+.mo{
+    color: blue;
+    text-align: center;
+}
+     
+caption{
+      font-size: 22px;
+      color: rgb(0, 13, 255);
+      margin: 7px;
+      margin-right: 100%;
+} 
+.one,h3{padding: 20px;
+         margin-top: -10px;}
+h3{
+    color: red;
+}
+form{
+    border: 1px solid whitesmoke;
+   padding: 20px;
+   margin: 50px;
+   width:100%;
+ background-color:whitesmoke;
+ border-radius: 10px;
+}
+input{
+    width: 100%;
+    height: 25px;
+    margin: 05px;
+}
+.h5{
+    text-align: center;
+    background-color: rgb(4, 4, 80);
+    color: white;
+   padding: 05px;
+   border-radius: 5px;
+}
+label{
+    color: blue;
+
+}
+.form{
+    color: blue;
+}
+.txt-contact{
+    color: rgb(6, 6, 136);
+  
+    font-size: 20px;
+}
+.container{
+    background-color: aliceblue;
+    width: 60%;
+   text-align: center;
+    margin-top: 30px;
+    margin-left: 25%;
+}
+.propre{
+    background-color:aliceblue ;
+    width:43% ;
+    margin-left: 25%;
+    margin-top:30px ; 
+}
+.seconde{
+    background-color: aliceblue;
+    padding: 10px;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+  
+   
+      
+      
+    
+   
+    
+    
+    
+  
